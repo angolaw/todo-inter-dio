@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="tv_titulo">Tarefas</string>
+    <string name="hint_title">Título</string>
+    <string name="hint_descricao">Descrição</string>
+    <string name="hint_data">Data</string>
+    <string name="hint_hora">Hora</string>
+    <string name="btn_criar_tarefa">Criar Tarefa</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_content_description">Nova tarefa</string>
+    <string name="menu_edit">Editar</string>
+    <string name="menu_delete">Deletar</string>
+    <string name="text_empty_state">Você não possui tarefas.\nAproveite para descansar!</string>
+</resources>
